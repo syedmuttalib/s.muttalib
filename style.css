@@ -1,0 +1,39 @@
+
+h1 {
+    color: aqua;
+}
+h2
+{
+    color: aqua;
+}
+h3
+{
+    color: aqua;
+}
+h4{
+    color: aqua;
+}
+h5
+{
+    color: aqua;
+}
+body
+{
+    background-color: cadetblue;
+}
+
+
+hr
+{
+    
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color:black;
+    
+    width: 10%;
+}
+a
+{
+color:black;
+}
